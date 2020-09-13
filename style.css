@@ -1,0 +1,21 @@
+h1 {
+            color: rgb(62, 82, 89);
+            text-align:center;
+    }  
+        
+body {
+            background-color: rgb(252, 118, 111);
+      }
+
+p {
+            color: rgb(255, 255, 255);
+            text-align:center;
+            margin-top: 200px;
+            margin-bottom: 200px;
+            margin-right: 200px;
+            margin-left: 200px;
+  }                     
+
+th {
+            width: 700;
+}
